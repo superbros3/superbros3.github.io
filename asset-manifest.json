@@ -1,6 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a885f1db.chunk.css",
+<<<<<<< HEAD
     "main.js": "/static/js/main.a20f28af.chunk.js",
     "main.js.map": "/static/js/main.a20f28af.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9209db0.js",
@@ -8,18 +9,37 @@
     "static/css/2.8078bc71.chunk.css": "/static/css/2.8078bc71.chunk.css",
     "static/js/2.162748fc.chunk.js": "/static/js/2.162748fc.chunk.js",
     "static/js/2.162748fc.chunk.js.map": "/static/js/2.162748fc.chunk.js.map",
+=======
+    "main.js": "/static/js/main.2994a6c6.chunk.js",
+    "main.js.map": "/static/js/main.2994a6c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9209db0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9209db0.js.map",
+    "static/css/2.8078bc71.chunk.css": "/static/css/2.8078bc71.chunk.css",
+    "static/js/2.3a57cc74.chunk.js": "/static/js/2.3a57cc74.chunk.js",
+    "static/js/2.3a57cc74.chunk.js.map": "/static/js/2.3a57cc74.chunk.js.map",
+>>>>>>> d95e3a2584280066b55bf1ee65e6ac8fac8a0207
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.8078bc71.chunk.css.map": "/static/css/2.8078bc71.chunk.css.map",
     "static/css/main.a885f1db.chunk.css.map": "/static/css/main.a885f1db.chunk.css.map",
+<<<<<<< HEAD
     "static/js/2.162748fc.chunk.js.LICENSE.txt": "/static/js/2.162748fc.chunk.js.LICENSE.txt"
+=======
+    "static/js/2.3a57cc74.chunk.js.LICENSE.txt": "/static/js/2.3a57cc74.chunk.js.LICENSE.txt"
+>>>>>>> d95e3a2584280066b55bf1ee65e6ac8fac8a0207
   },
   "entrypoints": [
     "static/js/runtime-main.b9209db0.js",
     "static/css/2.8078bc71.chunk.css",
+<<<<<<< HEAD
     "static/js/2.162748fc.chunk.js",
     "static/css/main.a885f1db.chunk.css",
     "static/js/main.a20f28af.chunk.js"
+=======
+    "static/js/2.3a57cc74.chunk.js",
+    "static/css/main.a885f1db.chunk.css",
+    "static/js/main.2994a6c6.chunk.js"
+>>>>>>> d95e3a2584280066b55bf1ee65e6ac8fac8a0207
   ]
 }
